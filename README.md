@@ -1,5 +1,5 @@
-## jQuery Mobile iOS7 Theme
+## jQuery Mobile iOS8 Theme
 
-### Coming soon based on JQM 1.4
+### Coming soon based on JQM 1.4.4
 
-![jQuery-Mobile-iOS7-Theme](http://farm4.staticflickr.com/3720/10919280733_f18fa6fd34_o.png)
+![jQuery-Mobile-iOS8-Theme](http://farm3.staticflickr.com/2941/15097774139_5dd9a7d235_o.png)
